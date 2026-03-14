@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Dawid!
 
 👩‍💻 Full-Stack Developer with a passion for technology and continuous skill improvement  
-🎓 Studied Computer Science and Econometrics at the University of Szczecin  
+🎓 Studying MSc in Data Science at the University of Szczecin
 🌐 I have a website where I showcase completed projects <a href="https://dawidfila.com/" style="text-decoration: none;" target="_blank">click here to visit</a> </br>
 📊 Passionate about data engineering and data analysis!
 
