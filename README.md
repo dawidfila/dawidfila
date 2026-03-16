@@ -3,7 +3,7 @@
 👩‍💻 Data Engineer passionate about building data pipelines and working with large-scale data </br>
 🎓 Studying MSc in Data Science at the University of Szczecin </br>
 🌐 I have a website where I showcase completed projects <a href="https://dawidfila.com/" style="text-decoration: none;" target="_blank">click here to visit</a> </br>
-🤖 Passionate about Machine Learning and Artificial Intelligence
+🤖 Passionate about Big Data and Artificial Intelligence
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
